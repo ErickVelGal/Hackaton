@@ -2,7 +2,7 @@
 
 # Sin limites
 
-### Pretendemos brindar capacidad de procesamiento a un precio justo, esto para aquellos que no tienen acceso a un equipo decente pero si a internet y quieren hace uso de programas que ameritan un mejor equipo. Usamos maquinas virtuales para esto en una especie de "Internet café virtual". Así mismo se 
+### Pretendemos brindar capacidad de procesamiento a un precio justo, esto para aquellos que no tienen acceso a un equipo decente pero si a internet y quieren hace uso de programas que ameritan un mejor equipo. Usamos maquinas virtuales para esto en una especie de "Internet café virtual". Así mismo se proporcionan links como acceso rapido a sitios que creemos útiles para el usuario.
 
 ### Link al Tiktok
 
@@ -18,4 +18,4 @@
 
 ### Debido a que nuestro SLA es de 99.9% nuestro tiempo de no disponibilidad es de 52560 minutos al año o 876 horas, lo que representa bastante
 
-### FUe sumamente educativo, enseña bastante bien la cuidadosa seleccion del equipo y el no jusgar a un libro por su portada. Esto aplicado tambien a las dinamicas que aún ser intimidantes resultan muy reconfortantes.
+### Fue sumamente educativo, enseña bastante bien la cuidadosa seleccion del equipo y el no jusgar a un libro por su portada. Esto aplicado tambien a las dinamicas que aún ser intimidantes resultan muy reconfortantes.
